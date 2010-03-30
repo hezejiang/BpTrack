@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, AddMeasurement!</string>
+    
     <string name="app_name">BpTrack</string>
+<string name="AddMeasurement_title">Add Measurement</string>
 </resources>
